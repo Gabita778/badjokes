@@ -1,4 +1,4 @@
-# myfirstone
+# myFirstone
 
 This is my first repository, from here to posterity :)
 
